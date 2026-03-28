@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI Fitness Tracker</string>
+    <string name="body_metrics">Body Metrics</string>
+    <string name="height_cm">HEIGHT (CM)</string>
+    <string name="weight_kg">WEIGHT (KG)</string>
+    <string name="compute_bmi">Compute BMI</string>
+    <string name="bmi_info">Your BMI (Body Mass Index) is a measure that uses your height and weight to work out if your weight is healthy.</string>
+    <string name="height_hint">175</string>
+    <string name="weight_hint">70</string>
+    <string name="label_cm">cm</string>
+    <string name="label_kg">kg</string>
+    <string name="splash_text">BMI Fitness Tracking</string>
+
+    <string name="insight_dummy_text">Your BMI indicates you are in the healthy weight range for your height. Maintaining a balanced diet and regular physical activity is key to long-term vitality.</string>
+    <string name="rec_dummy_text"> \u2022 Continue balanced diet (vegetables, fruits, protein)\n \u2022 Exercise regularly (at least 3-5 times a week)\n \u2022 Stay hydrated\n \u2022 Maintain consistent sleep schedule</string>
+</resources>
